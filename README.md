@@ -1,10 +1,6 @@
-# ConfuserEx 2
+# ConfuserEx 2 LSREMAKE
 
-[![Build status](https://img.shields.io/appveyor/ci/mkaring/ConfuserEx/release/2.0.svg?style=flat)](https://ci.appveyor.com/project/mkaring/confuserex/branch/release/2.0)
-[![Test status](https://img.shields.io/appveyor/tests/mkaring/ConfuserEx/release/2.0.svg?style=flat&compact_message)](https://ci.appveyor.com/project/mkaring/confuserex/branch/release/2.0/tests)
-[![CodeFactor](https://www.codefactor.io/repository/github/mkaring/confuserex/badge/release/2.0)](https://www.codefactor.io/repository/github/mkaring/confuserex/overview/release/2.0)
-[![Gitter Chat](https://img.shields.io/gitter/room/mkaring/ConfuserEx.svg?style=flat)](https://gitter.im/ConfuserEx/community)
-[![MIT License](https://img.shields.io/github/license/mkaring/ConfuserEx.svg?style=flat)](LICENSE.md)
+WE'V STARTED SMTH SO DON'T CARE ABOUT IT...
 
 ConfuserEx 2 is a open-source protector for .NET applications.
 It is the successor of [Confuser](http://confuser.codeplex.com) project and the [ConfuserEx](https://yck1509.github.io/ConfuserEx/) project.
